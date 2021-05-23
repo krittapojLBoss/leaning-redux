@@ -10,10 +10,10 @@
  ขั้นสุดท้ายสนุกันไปเลย
 
 #Git
-ต้องการสร้าง branch ใน branch: git checkout -b feature/ชื่อ Feature ที่เราต้องการเเตกออกมาจาก branck อีกที
+ต้องการสร้าง branch ใน branch: git checkout -b feature/ชื่อ Feature ที่เราต้องการเเตกออกมาจาก branch อีกที
 ต้องการลบ branch :  git branch -d ตามด้วยชื่อ branch ที่ต้องการลบ
 
-##ขอใหเช้สนุกนะ
+##ขอให้สนุกนะ
 
 
 --เพิ่มเติ่มในอนาคต จะต่อหลังจากนี้
